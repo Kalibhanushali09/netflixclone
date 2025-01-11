@@ -1,0 +1,159 @@
+.main{
+    background-image: url(https://assets.nflxext.com/ffe/siteui/vlv3/150c4b42-11f6-4576-a00f-c631308b1e43/web/IN-en-20241216-TRIFECTA-perspective_915a9055-68ad-4e81-b19a-442f1cd134dc_large.jpg);
+    height:90vh;
+    position: relative;
+    background-repeat: no-repeat;
+
+    
+}
+
+body{
+    background-color: black;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.box{
+    height: 90vh;
+    width: 100%;
+    opacity: 0.7;
+    background-color: black;
+    position: absolute;
+    top: 0;
+}
+    
+nav{
+    display: flex;
+    max-width: 80vw;
+    margin: auto;
+    align-items: center;
+    position: relative;
+    justify-content: space-between;
+    padding: 15px;
+    z-index: 10;
+}
+
+.hero{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    height: 80vh;
+    position: relative;
+}
+
+.btn{
+    width: 100px;        
+    height: 40px; 
+    font-size: 16px;  
+    font-weight: 700;
+    border-radius: 7px;
+}
+
+.one{
+    background-color: rgba(15, 14, 14, 0.725);
+    color: rgb(245, 245, 245);
+}
+
+.two{
+    background-color: rgba(255, 0, 0, 0.964);
+    color: white;
+}
+
+#hi{
+    width: 330px;
+    height: 60px;
+    background-color: rgba(10, 7, 7, 0.688);
+    border-radius: 5px;
+    padding-left: 15px;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.three{
+    width: 180px;
+    height: 60px;
+    border-radius: 5px;
+    background-color: red;
+    color: white;
+    font-weight: 600;
+    font-size: 20px;
+    margin: 17px;
+}
+
+.hey1{
+    font-size: 3.5rem;
+    font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.hey2{
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 500;
+    margin: 7px;
+}
+
+.hey3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+    margin: 7px;
+}
+
+.black{
+    color: white;
+    margin-top: 60px;
+    font-size: 24px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 500;
+    padding-left: 155px;
+}
+
+.hii{
+    margin-top: 25px;
+}
+
+.new{
+    display: flex;
+    overflow:auto;
+    column-gap:40px;
+}
+
+.ke{
+    border-radius: 7px;
+}
+
+.body{
+    color: white;
+    margin-top: 60px;
+    font-size: 24px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 500;
+    padding-left: 155px;
+    margin-bottom: 15px;
+}
+
+.boxes{
+    width: 286.4px;
+    height: 293.8px;
+    border: 2px white;
+    background-color: bisque;
+}
+
+.bee{
+    display: flex;
+    column-gap: 15px;
+    justify-content: center;
+}
+
+
+
+.last{
+    width: 1223.2px;
+    height: 84px;
+    color: azure;
+}
